@@ -1,0 +1,22 @@
+exam 01) score.py 를 만들어서 Mscore.py로 호출해서 코드를 작성한다
+ 조건]1 주어진 조건에 따라 3과목을 입력받아 총점과 평균 및 학점을 구하는 프로그램을 작성한다
+ 조건]2 getTot (kor, eng, mat) / getAvg(tot) / getGrad(avg) 세개의 메소드를 조건으로 선언한다
+ 조건3] 다음과 같은 output을 구현한다
+   input name: 홍길동
+   input kor: 90
+   input eng: 85
+   input mat 72
+   이름 홍길동
+   국어 영어ㅓ 수학: 90,85,72
+   총점, 평균, 학점 : 00 , 00 ,00
+
+ exam02) 01 의 score.py 의 함수를 람다로 만들어 출력한다
+     1score.py를 만들어서 lMscore.py
+
+ exam03) 애국가 1절에서 4절까지 myexam.txt로 저장된 것을 읽어서 다음과 같은 조건으로 구현한다
+조건 아래와같이 파일에서 읽어온 문자열에서 단어를 찾아 카운트한다.(find,findall 함수)
+   무궁화:000개
+   대한사람: 00개
+   화려강산:00개
+   백두산:00개
+   조건02] 위의 개수를 시각화 한다 exam03.py

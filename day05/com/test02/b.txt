@@ -1,0 +1,5 @@
+TypeError: write() argument must be str, not range
+(python) dhshin@ShinDonghooui-MacBookPro test02 % python fun02.py
+<_io.TextIOWrapper name='a.txt' mode='r' encoding='UTF-8'> <class '_io.TextIOWrapper'>
+(python) dhshin@ShinDonghooui-MacBookPro test02 % python fun02.py
+Traceback (most recent call last):
